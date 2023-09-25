@@ -1,0 +1,17 @@
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.exe
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.deps.json
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.dll
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.dll
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\refint\MiCalculadora.dll
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll
+C:\Users\ddeeg\OneDrive\Escritorio\test\MiCalculadora\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.FrmCalculadora.resources
