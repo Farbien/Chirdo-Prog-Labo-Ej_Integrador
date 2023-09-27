@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddeeg\\OneDrive\\Escritorio\\test\\MiCalculadora\\MiCalculadora\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddeeg\\OneDrive\\Escritorio\\test\\MiCalculadora\\MiCalculadora\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddeeg\\OneDrive\\Escritorio\\test\\MiCalculadora\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\ddeeg\\OneDrive\\Escritorio\\test\\MiCalculadora\\MiCalculadora\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\ddeeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddeeg\\OneDrive\\Escritorio\\test\\MiCalculadora\\MiCalculadora\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ddeeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

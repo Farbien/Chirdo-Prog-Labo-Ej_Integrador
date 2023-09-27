@@ -24,7 +24,7 @@ namespace Entidades
         {
             this.sistema = sistema;
 
-            if (EsBinario(valor))
+            if (sistema == ESistema.Binario)
             {
                 this.valorNumerico = BinarioADecimal(valor);
                 return;
@@ -43,9 +43,9 @@ namespace Entidades
         {
             switch (sistema)
             {
-                case ESistema.Decimal:
-                    return DecimalABinario(this.valorNumerico.ToString());
                 case ESistema.Binario:
+                    return DecimalABinario(this.valorNumerico.ToString());
+                case ESistema.Decimal:
                     return BinarioADecimal(this.valorNumerico.ToString()).ToString();
                 default:
                     return this.Valor;
@@ -80,7 +80,8 @@ namespace Entidades
 
         private string DecimalABinario (string valor)
         {
-            return this.DecimalABinario(int.Parse(valor));
+            bool exito = int.TryParse(valor, out int result) && result >= 0;
+            return exito ? this.DecimalABinario(result) : "Numero invalido";
         }
 
         public static bool operator !=(ESistema sistema, Numeracion numeracion)
