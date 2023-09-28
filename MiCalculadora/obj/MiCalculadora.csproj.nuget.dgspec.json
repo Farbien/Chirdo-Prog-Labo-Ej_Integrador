@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\MiCalculadora\\MiCalculadora.csproj": {}
+    "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\MiCalculadora\\MiCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\MiCalculadora\\MiCalculadora.csproj": {
+    "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\MiCalculadora\\MiCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\MiCalculadora\\MiCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\MiCalculadora\\MiCalculadora.csproj",
         "projectName": "MiCalculadora",
-        "projectPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\MiCalculadora\\MiCalculadora.csproj",
+        "projectPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\MiCalculadora\\MiCalculadora.csproj",
         "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\MiCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\MiCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\vboxuser\\Desktop\\MiCalculadora\\Entidades\\Entidades.csproj"
+              "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj"
               }
             }
           }
