@@ -75,23 +75,23 @@ C:\Users\vboxuser\Desktop\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\r
 C:\Users\vboxuser\Desktop\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
 C:\Users\vboxuser\Desktop\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
 C:\Users\vboxuser\Desktop\MiCalculadora\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.exe
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.deps.json
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.runtimeconfig.json
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.dll
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.pdb
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.dll
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.AssemblyReference.cache
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.FrmCalculadora.resources
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.GenerateResource.cache
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfoInputs.cache
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfo.cs
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CopyComplete
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.dll
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\refint\MiCalculadora.dll
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
-C:\Users\vboxuser\Desktop\Nueva carpeta\Chirdo-Prog-Labo-Ej_Integrador\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.exe
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.deps.json
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.dll
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.FrmCalculadora.resources
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.dll
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\refint\MiCalculadora.dll
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\nchir\OneDrive\Escritorio\Chirdo-Prog-Labo-Ej_Integrador-main\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll

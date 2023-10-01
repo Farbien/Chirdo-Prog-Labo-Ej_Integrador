@@ -113,7 +113,6 @@
             // 
             // cmbOperacion
             // 
-            cmbOperacion.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbOperacion.FormattingEnabled = true;
             cmbOperacion.Items.AddRange(new object[] { "+", "-", "/", "*" });
             cmbOperacion.Location = new Point(297, 250);
