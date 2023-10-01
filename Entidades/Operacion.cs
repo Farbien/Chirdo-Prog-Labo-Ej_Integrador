@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -49,7 +50,12 @@ namespace Entidades
                 case '*':
                     return primerOperando * segundoOperando;
                 case '/':
-                    return primerOperando / segundoOperando;
+                    if (segundoOperando.Valor != "0")
+                        return primerOperando / segundoOperando;
+                    else
+                    {
+                        return new Numeracion(double.MinValue, ESistema.Decimal);
+                    }
                 default:
                     return primerOperando + segundoOperando;
             }

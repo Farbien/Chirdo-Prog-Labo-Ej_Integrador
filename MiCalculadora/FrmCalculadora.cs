@@ -102,16 +102,25 @@ namespace MiCalculadora
             lblResultadoFinal.Text = null;
         }
 
+        /// <summary>
+        /// Maneja el evento de cambio de selección en la opción "Binario". Actualiza el resultado si es necesario.
+        /// </summary>
         private void rdbBinario_CheckedChanged(object sender, EventArgs e)
         {
             this.setResultado();
         }
 
+        /// <summary>
+        /// Maneja el evento de cambio de selección en la opción "Decimal". Actualiza el resultado si es necesario.
+        /// </summary>
         private void rdbDecimal_CheckedChanged(object sender, EventArgs e)
         {
             this.setResultado();
         }
 
+        /// <summary>
+        /// Maneja el evento de clic en el botón "Cerrar". Muestra un cuadro de diálogo de confirmación y cierra la aplicación si el usuario confirma.
+        /// </summary>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Desea cerrar la calculadora?", "Cierre", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
