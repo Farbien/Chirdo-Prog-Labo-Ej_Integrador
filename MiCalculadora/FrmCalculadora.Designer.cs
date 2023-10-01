@@ -50,7 +50,7 @@
             btnOperar.Location = new Point(137, 301);
             btnOperar.Name = "btnOperar";
             btnOperar.Size = new Size(110, 33);
-            btnOperar.TabIndex = 0;
+            btnOperar.TabIndex = 7;
             btnOperar.Text = "Operar";
             btnOperar.UseVisualStyleBackColor = true;
             btnOperar.Click += btnOperar_Click;
@@ -60,7 +60,7 @@
             btnLimpiar.Location = new Point(297, 301);
             btnLimpiar.Name = "btnLimpiar";
             btnLimpiar.Size = new Size(121, 33);
-            btnLimpiar.TabIndex = 1;
+            btnLimpiar.TabIndex = 8;
             btnLimpiar.Text = "Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
             btnLimpiar.Click += btnLimpiar_Click;
@@ -70,7 +70,7 @@
             btnCerrar.Location = new Point(471, 301);
             btnCerrar.Name = "btnCerrar";
             btnCerrar.Size = new Size(110, 33);
-            btnCerrar.TabIndex = 2;
+            btnCerrar.TabIndex = 9;
             btnCerrar.Text = "Cerrar";
             btnCerrar.UseVisualStyleBackColor = true;
             btnCerrar.Click += btnCerrar_Click;
@@ -107,18 +107,20 @@
             grpSistema.Location = new Point(208, 114);
             grpSistema.Name = "grpSistema";
             grpSistema.Size = new Size(290, 73);
-            grpSistema.TabIndex = 5;
+            grpSistema.TabIndex = 3;
             grpSistema.TabStop = false;
             grpSistema.Text = "Representar resultado en:";
             // 
             // cmbOperacion
             // 
+            cmbOperacion.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbOperacion.FormattingEnabled = true;
             cmbOperacion.Items.AddRange(new object[] { "+", "-", "/", "*" });
             cmbOperacion.Location = new Point(297, 250);
             cmbOperacion.Name = "cmbOperacion";
             cmbOperacion.Size = new Size(121, 23);
-            cmbOperacion.TabIndex = 6;
+            cmbOperacion.TabIndex = 5;
+            cmbOperacion.SelectedIndexChanged += cmbOperacion_SelectedIndexChanged;
             // 
             // lblPrimerOperador
             // 
@@ -155,10 +157,10 @@
             lblResultado.AutoSize = true;
             lblResultado.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             lblResultado.ForeColor = Color.FromArgb(224, 224, 224);
-            lblResultado.Location = new Point(212, 69);
+            lblResultado.Location = new Point(143, 38);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(112, 30);
-            lblResultado.TabIndex = 10;
+            lblResultado.TabIndex = 1;
             lblResultado.Text = "Resultado:";
             // 
             // txtPrimerOperando
@@ -167,7 +169,7 @@
             txtPrimerOperando.Margin = new Padding(3, 2, 3, 2);
             txtPrimerOperando.Name = "txtPrimerOperando";
             txtPrimerOperando.Size = new Size(110, 23);
-            txtPrimerOperando.TabIndex = 14;
+            txtPrimerOperando.TabIndex = 4;
             txtPrimerOperando.TextChanged += txtPrimerOperando_TextChanged;
             // 
             // txtBoxSegundoOperando
@@ -176,7 +178,7 @@
             txtBoxSegundoOperando.Margin = new Padding(3, 2, 3, 2);
             txtBoxSegundoOperando.Name = "txtBoxSegundoOperando";
             txtBoxSegundoOperando.Size = new Size(110, 23);
-            txtBoxSegundoOperando.TabIndex = 15;
+            txtBoxSegundoOperando.TabIndex = 6;
             txtBoxSegundoOperando.TextChanged += txtSegundoOperando_TextChanged;
             // 
             // lblResultadoFinal
@@ -184,10 +186,10 @@
             lblResultadoFinal.AutoSize = true;
             lblResultadoFinal.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             lblResultadoFinal.ForeColor = Color.FromArgb(128, 255, 255);
-            lblResultadoFinal.Location = new Point(330, 69);
+            lblResultadoFinal.Location = new Point(255, 38);
             lblResultadoFinal.Name = "lblResultadoFinal";
             lblResultadoFinal.Size = new Size(0, 30);
-            lblResultadoFinal.TabIndex = 16;
+            lblResultadoFinal.TabIndex = 2;
             lblResultadoFinal.Visible = false;
             // 
             // FrmCalculadora

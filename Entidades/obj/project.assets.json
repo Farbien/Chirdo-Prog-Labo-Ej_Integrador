@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nchir\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vboxuser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nchir\\OneDrive\\Escritorio\\Chirdo-Prog-Labo-Ej_Integrador-main\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\nchir\\OneDrive\\Escritorio\\Chirdo-Prog-Labo-Ej_Integrador-main\\Entidades\\Entidades.csproj",
-      "packagesPath": "C:\\Users\\nchir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nchir\\OneDrive\\Escritorio\\Chirdo-Prog-Labo-Ej_Integrador-main\\Entidades\\obj\\",
+      "projectPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\Entidades.csproj",
+      "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vboxuser\\Desktop\\Nueva carpeta\\Chirdo-Prog-Labo-Ej_Integrador\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nchir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
